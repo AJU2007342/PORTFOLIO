@@ -210,18 +210,17 @@ section {
     color: #FEF3C7;
     font-size: 24px;
     text-align: left;
-    margin-bottom: 0;
+    margin-bottom: 16px;
     margin-top: 8px;
 }
 
 .p-cr h3 {
     color: #4d4d4b;
-    font-size: 14px;
+    font-size: 18px;
     text-align: left;
-    margin-top: 6px;
+    margin-top: 16px;
     margin-bottom: 12px;
     padding: 0;
-    padding-top: 0;
 }
 
 .p-cr a {
@@ -334,11 +333,7 @@ section {
 .skl-cr li {
     font-size: 16px;
     color: #FEF3C7;
-    padding: 10px 0;
-    border-bottom: 0.5px solid #2A2A27;
-}
-
-.skl-cr li:last-child {
+    padding: 8px 0;
     border-bottom: none;
 }
 
