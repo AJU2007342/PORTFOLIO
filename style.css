@@ -1,7 +1,9 @@
 html {
     scroll-behavior: smooth;
 }
-
+* {
+  cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><circle cx="10" cy="10" r="4" fill="%2360A5FA"/><circle cx="10" cy="10" r="8" fill="none" stroke="%2360A5FA" stroke-width="1"/></svg>') 10 10, auto;
+}
 body {
     margin: 0px;
     overflow-x: hidden;
