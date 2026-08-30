@@ -9,6 +9,23 @@ body {
     overflow-x: hidden;
     background-color: #0C0C0A;
 }
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #080808;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #D97706;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #D97706;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #feb90e;
+}
 
 section {
     background-color: #0C0C0A;
@@ -701,20 +718,4 @@ section {
         min-width: 100px;
         font-size: 13px;
     }
-}
-::-webkit-scrollbar {
-  width: 6px;
-}
-
-::-webkit-scrollbar-track {
-  background: #01030A;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #60A5FA;
-  border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #38BDF8;
 }
