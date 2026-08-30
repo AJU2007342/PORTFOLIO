@@ -700,3 +700,19 @@ section {
         font-size: 13px;
     }
 }
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #01030A;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #60A5FA;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #38BDF8;
+}
