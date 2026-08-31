@@ -3,7 +3,7 @@
 A personal portfolio website built from scratch using vanilla HTML and CSS, styled with the **Carbon Amber** dark theme.
 
 ## 🔗 Live Demo
-👉 [View Live](https://aju2007342.github.io/PORTFOLIO/)
+👉 [View Live](https://ajuteshboddeti.github.io/PORTFOLIO/)
 
 ## 📸 Preview
 <img width="1901" height="1198" alt="image" src="https://github.com/user-attachments/assets/f9dc68c5-f638-4e8b-9fd8-99eece75dc28" />
